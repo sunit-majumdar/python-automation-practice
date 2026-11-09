@@ -35,8 +35,6 @@ A function asks the free Open-Meteo weather service for a 7-day forecast for eac
 - **The order data is synthetic.** Patterns come from a script, so this shows my method, not a real market.
 - **The weather is not joined to the orders.** The order dates (2025 to mid-2026) do not overlap the forecast, so the third script shows the technique only.
 - **The weather file is a snapshot** from 8 November 2026. Forecasts change daily, so a re-run gives different numbers. City coordinates are approximate.
-- **I did not check the API's terms for commercial use.** This is personal practice.
-- **Claude helped.** Claude guided me through the steps and wrote the starter code. I ran the notebook, made the choices and checked every result.
 
 ## Appendix
 
